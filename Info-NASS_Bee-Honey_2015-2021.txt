@@ -1,0 +1,18 @@
+Info for NASS_Bee-Honey_2015-2021.csv file:
+
+https://usda.library.cornell.edu/concern/publications/hd76s004z?locale=en
+
+Summary:
+
+This file contains the annual report of the number of colonies producing honey, yield per colony, honey production, average price, price by color class and value; honey stocks by state and U.S.
+The report also notes trends and changes in the honey producing sector, such as percent change in honey prices or quantity of production.
+The data for this report were collected from a stratified sample of all known operations that also meet USDA's definition of a farm, prices were collected by color class and marketing channel from operations with five or more colonies.
+
+Data table notes:
+Honey producing colonies are the maximum number of colonies from which honey was harvested during the year. It is possible to harvest honey from colonies which did not survive the entire year.
+Stocks held by producers.
+Average price per pound based on expanded sales.
+Value of production is equal to production multiplied by average price per pound.
+Includes data for States not published in this table.
+Due to rounding, total colonies multiplied by total yield may not exactly equal production.
+United States value of production will not equal summation of States.

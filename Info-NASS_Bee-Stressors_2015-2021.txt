@@ -1,0 +1,15 @@
+Info for NASS_Bee-Stressors_2015-2021.csv file:
+
+Data source: https://usda.library.cornell.edu/concern/publications/rn301137d
+
+Summary:
+The report also identifies colony health stressors with five or more colonies. 
+The data for operations with honey bee colonies are collected from a stratified sample of operations that responded as having honey bees on the Bee and Honey Inquiry and from the NASS list frame.
+For operations with five or more colonies, data was collected on a quarterly basis; operations with less than five colonies were collected with an annual survey.
+
+Data table notes:
+(Z) Less than half of the unit shown.
+Tracheal mites, nosema, hive beetle, wax moths, etc.
+Includes American and European foulbrood, chalkbrood, stonebrood, paralysis (acute and chronic), kashmir, deformed wing, sacbrood, IAPV, Lake Sinai II, etc.
+Column 3: Includes weather, starvation, insufficient forage, queen failure, hive damage/destroyed, etc.
+Includes data for States not published in this table.

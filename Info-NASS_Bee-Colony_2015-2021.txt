@@ -1,0 +1,18 @@
+Info for NASS_Bee-Colony_2015-2021.csv file:
+
+Data source: https://usda.library.cornell.edu/concern/publications/rn301137d
+
+Summary:
+
+This report provides information on honey bee colonies in terms of number of colonies, maximum, lost, percent lost, added, renovated, and percent renovated, as well as colonies lost with Colony Collapse Disorder symptoms with both over and less than five colonies.
+The data for operations with honey bee colonies are collected from a stratified sample of operations that responded as having honey bees on the Bee and Honey Inquiry and from the NASS list frame.
+For operations with five or more colonies, data was collected on a quarterly basis; operations with less than five colonies were collected with an annual survey.
+
+Data table notes:
+(X) Not applicable.
+(Z) Less than half of the unit shown.
+Colonies plus all colonies moved into that state during the quarter.
+Percent lost is the number of lost colonies divided by maximum colonies except for the United States, where percent lost is the number of lost colonies divided by the starting colonies.
+Defined as any surviving colony that was requeened or received new honey bees through nuc or package.
+Percent renovated is the number of renovated colonies divided by maximum colonies except for the United States, where percent renovated is thenumber of renovated colonies divided by the starting colonies.
+Other states row: Includes data for States not published
